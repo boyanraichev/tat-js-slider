@@ -1,0 +1,15 @@
+{
+  "name": "tat-js-slider",
+  "version": "1.0.0",
+  "description": "Simple pure JS script for running a slider",
+  "browser": "src/tat-slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyanraichev/tat-js-slider.git"
+  },
+  "author": "Boyan Raichev",
+  "license": "MIT"
+}
